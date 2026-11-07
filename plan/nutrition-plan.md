@@ -89,7 +89,18 @@ On a run day, add about 250 kcal: a second slice of wholemeal with the soup and 
 
 ## Alcohol
 
-No protective dose. It raises triglycerides and blood pressure, suppresses fat burning, and two pints is 400 kcal you have not got. Suggest none for the first four weeks while habits form, then if you drink, keep it under 14 units a week over at least three days and inside the calorie budget.
+You said 14 to 30 units in a typical week. That is the biggest single lever in this plan, bigger than any food swap, so it gets its own rules.
+
+The arithmetic: a pint of 4.5 percent beer is about 2.5 units and 200 to 240 kcal; a 175 ml glass of wine is about 2.2 units and 160 kcal. Twenty units a week is roughly 1800 to 2000 kcal, about 250 kcal a day, which on its own is the difference between losing 0.5 and 0.75 kg a week. Alcohol also raises triglycerides and blood pressure directly, suppresses fat burning for hours after drinking, and is the most common reason people overeat in the evening. There is no protective dose for the heart; that idea has not survived the recent genetic studies.
+
+Rules:
+1. **First four weeks: none.** Habits form in this window, your liver gets a rest before the baseline bloods, and you find out how much of your evening eating was riding on the drink.
+2. **After that: a hard cap of 10 units a week, on no more than two days, never two days in a row.** Logged in the app like food. That is four pints or four large glasses of wine a week, inside the calorie budget, not on top of it.
+3. **Never on a run day.** It wrecks sleep and recovery.
+4. **Swap the ritual, not just the drink.** If the beer is the end-of-day marker, replace it with something that is also a marker: sparkling water with lime, alcohol-free beer (most are 60 to 90 kcal and fine), a walk, the gym.
+5. **Tell the GP the real number.** Liver enzymes and triglycerides at baseline will reflect it, and it feeds QRISK.
+
+If the cap proves hard to hold, say so in the weekly review. That is useful information, not failure.
 
 ## Salt
 

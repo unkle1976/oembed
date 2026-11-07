@@ -13,6 +13,7 @@ Last updated: 2026-11-07. Edit this file whenever something changes.
 | BMI | 30.4 | 96 / 1.778^2. Obesity class 1 starts at 30. |
 | Waist | ? | Measure at the navel. Over 102 cm is the high-risk line for men. |
 | Resting HR | ? | |
+| Conditions / medication | None reported 2026-11-07 | No symptoms on exertion. Cleared to start walk-run at easy pace. |
 | Blood pressure | ? | |
 | Lipids | ? | Needs a GP blood test. See tracking/bloods.md. |
 
@@ -57,7 +58,7 @@ Working target: about 85 kg by late spring 2027, then reassess. A realistic end 
 | Salt | under 6 g (2.4 g sodium) | Blood pressure. |
 | Oily fish | 2 portions a week | Omega-3. |
 | Fruit and veg | 7 or more portions | Potassium, folate, fibre, polyphenols. |
-| Alcohol | as little as possible, none in the first 4 weeks if you can | No protective dose for the heart; raises triglycerides and BP; 7 kcal per gram (research/cholesterol.md, section 4). |
+| Alcohol | 0 for the first 4 weeks, then a hard cap of 10 units a week on no more than 2 days | Reported 14 to 30 units a week. At about 100 kcal per unit of beer or wine that is 1400 to 3000 kcal a week, the same as 0.2 to 0.4 kg of fat loss forgone. Also raises triglycerides and BP (research/cholesterol.md, section 4). |
 
 Details and meals in plan/nutrition-plan.md. Evidence in research/.
 

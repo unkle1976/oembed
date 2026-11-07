@@ -2,6 +2,15 @@
 
 Answers change the plan. Fill in and the plan gets revised.
 
+## Answered 2026-11-07
+
+- Q1 to Q3 (conditions, medication, symptoms on exertion): none of those. Walk-run can start now; GP check booked in parallel.
+- Q6 (alcohol): 14 to 30 units in a typical week. See the alcohol section of plan/nutrition-plan.md.
+- Q8 (cooking): cooks for himself, 30 minutes or more available on a weekday evening. Full meal plan applies.
+- Q20 (tracking): app daily (Nutracheck or MyFitnessPal), Claude weekly review.
+
+## Still open
+
 ## Health (answer before the plan is final)
 
 1. **Do you have any diagnosed conditions or take any medication?** Statins, blood pressure tablets, metformin, anything for thyroid, antidepressants. Several of these change the advice.
