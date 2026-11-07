@@ -1,4 +1,4 @@
-node_modules/
+__pycache__/
+*.pyc
 .DS_Store
-providers.json
-/secrets/cloudflare-api-token
+tracking/*.private.*

@@ -1,8 +1,0 @@
----
-- provider_name: PeerTube.TV
-  provider_url: https://peertube.tv/
-  endpoints:
-  - schemes:
-    - https://peertube.tv/w/*
-    url: https://peertube.tv/services/oembed
-...
