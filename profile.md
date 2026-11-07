@@ -50,16 +50,16 @@ Working target: about 85 kg by late spring 2027, then reassess. A realistic end 
 
 | Nutrient | Target | Why |
 |---|---|---|
-| Calories | 1600 kcal | Your chosen starting point. Rises once running volume builds. |
-| Protein | 140 to 160 g | Roughly 1.5 to 1.6 g per kg. Keeps muscle in a deficit, controls hunger. |
+| Calories | 1600 kcal (rest days) | Your chosen starting point. Once running 3 times a week, eat 1800 to 1900 on run days so energy availability does not drop too far (research/weight-loss.md, section 1). |
+| Protein | 120 to 150 g | 1.2 to 1.6 g per kg body weight (research/weight-loss.md). Anchor: 130 g, which is 1.6 g per kg of an 80 kg target weight. Keeps muscle in a deficit, controls hunger. |
 | Fibre | 30 g or more | UK target. Lowers LDL and helps fullness. Most UK men get about 18 g. |
 | Saturated fat | under 15 g | Under 10 percent of calories. The single biggest dietary lever on LDL. |
 | Salt | under 6 g (2.4 g sodium) | Blood pressure. |
 | Oily fish | 2 portions a week | Omega-3. |
 | Fruit and veg | 7 or more portions | Potassium, folate, fibre, polyphenols. |
-| Alcohol | see open questions | |
+| Alcohol | as little as possible, none in the first 4 weeks if you can | No protective dose for the heart; raises triglycerides and BP; 7 kcal per gram (research/cholesterol.md, section 4). |
 
-These will be refined once the research reports are in. See plan/nutrition-plan.md.
+Details and meals in plan/nutrition-plan.md. Evidence in research/.
 
 ## Open questions
 
