@@ -106,7 +106,11 @@ If the cap proves hard to hold, say so in the weekly review. That is useful info
 
 Cooking from the list above will cut salt from a UK average of about 9 g a day to near the 6 g target without trying. Use lemon, vinegar, garlic, chilli, herbs and spices. A reduced-sodium salt (LoSalt) is fine if your kidneys are normal and you are not on blood pressure tablets of the ACE inhibitor, ARB or spironolactone type; check with the GP if unsure.
 
-## Weekly shop (one person, roughly 30 to 40 pounds at Aldi or Lidl prices)
+## Weekly shop
+
+The current week's menu and a priced Sainsbury's list are in `plan/week-1-menu.md` and `plan/week-1-shopping.md`. The general staples list below is a reference.
+
+### Staples
 
 Oats 1 kg; semi-skimmed or soya milk 4 L; 0 percent Greek yogurt 2 kg; eggs 12; chicken breast or thighs 1 kg; 5 percent lean mince 500 g; tinned sardines or mackerel x4; salmon fillets or tinned salmon x2; frozen white fish; red lentils 500 g; tinned chickpeas, kidney beans, white beans x4; tinned tomatoes x4; frozen berries 400 g; frozen peas, mixed veg, spinach; bananas 7; apples 7; potatoes 2 kg; onions, carrots, peppers, broccoli; bag salad x2; wholemeal bread; brown rice or wholewheat noodles; olive oil; mixed nuts 200 g; peanut butter; kefir 500 ml; lemons, garlic, spices.
 
