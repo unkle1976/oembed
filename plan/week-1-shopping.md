@@ -6,6 +6,25 @@ Grouped in rough store order so you walk the shop once. Frozen goes in the troll
 
 **Sunday hours:** large stores in England and Wales can open for only 6 hours on a Sunday, usually somewhere between 10am and 6pm. Check your store's times before you go.
 
+## Saturday 7 November top-up, for today only
+
+These come off tomorrow's list, so the week's total barely changes. Tonight's dinner uses one of the three salmon fillets, which leaves one for Tuesday and one for week 2.
+
+| Buy | Product | Price | Tomorrow |
+|---|---|---|---|
+| 2 | Princes Sardines in Rich Tomato Sauce, 120 g | £2.60 | Skip the tin on tomorrow's list |
+| 1 | Sainsbury's Medium Sliced Wholemeal Bread, 800 g | £0.75 | Skip |
+| 1 | Sainsbury's Cherry Tomatoes, 500 g | £1.45 | Skip |
+| 1 | Sainsbury's Small Bananas Fairtrade, 8 | £1.05 | Skip |
+| 1 | Sainsbury's Fat Free Greek Style Natural Yogurt, 1 kg | £1.70 | Still buy 3. The spare goes into week 2 |
+| 1 | Sainsbury's Salmon Fillets, 360 g | £6.00 | Skip |
+| 1 | Sainsbury's White Potatoes, 2 kg | £1.32 | Skip |
+| 1 | Sainsbury's Mixed Vegetables, frozen, 1 kg | £1.65 | Skip |
+| 1 | Sainsbury's Bones Vitamin D 25 µg, 180 tablets | £5.50 | Skip |
+| | **Total** | **£22.02**, or £16.52 without vitamin D | |
+
+Compared with the original plan, this adds about £3: one extra tin of sardines and one extra tub of yogurt.
+
 ## Fruit and veg
 
 | Buy | Product | Price |
