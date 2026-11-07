@@ -60,6 +60,7 @@ The salmon and chilli days land at the lower end on protein, and the chicken day
 | Noodles | 50 g dry |
 | Frozen veg | 150 to 200 g per dinner |
 | Oil | 1 tsp per dinner, measured |
+| Bread | Tesco Finest rye and mixed seed sourdough, bought 7 Nov: 127 kcal per 50 g slice on the label. Weigh a slice or two, because hand-cut sourdough slices vary |
 
 ## Leftovers and next week
 
