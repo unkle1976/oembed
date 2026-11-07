@@ -16,7 +16,7 @@ Shopping list with current prices: `plan/week-1-shopping.md`.
 ## The two breakfasts
 
 - **Porridge** (about 400 kcal, 26 g protein): 50 g oats cooked in 250 ml semi-skimmed milk, 100 g frozen berries stirred in, 100 g 0% Greek yogurt on top. Make it as overnight oats in a jar if mornings are rushed.
-- **Omelette** (about 390 kcal, 26 g protein): 3 eggs, a handful of frozen spinach, a tomato, 1 tsp oil, 1 slice wholemeal toast.
+- **Omelette** (about 390 kcal, 26 g protein): 3 eggs, a handful of spinach, a few cherry tomatoes, 1 tsp oil, 1 slice wholemeal toast.
 
 ## The plan
 
