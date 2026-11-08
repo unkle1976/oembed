@@ -6,6 +6,20 @@ Daily target about 1600 kcal and 130 g protein. MyFitnessPal targets: 1600 kcal,
 
 **Updated 8 Nov for blood pressure.** Home readings on 7 and 8 Nov had the bottom number at 88 to 93, above the home threshold of 85. Salt is now the main food target, so this version cuts hidden salt, adds 20 g of unsalted nuts a day (the nutrition plan's LDL stack) and adds raw veg to lunches for potassium. Calories and protein stay on target. On a run day, add about 150 to 200 kcal: an apple and an extra slice of toast is enough in week 1.
 
+## Training week
+
+| Day | Session | Calories |
+|---|---|---|
+| Mon 9 | Run: walk-run week 1, 8 x (60 s run / 90 s walk), 5 min brisk walk before and after | 1800 |
+| Tue 10 | Strength A | 1600 |
+| Wed 11 | Run | 1800 |
+| Thu 12 | Strength B | 1600 |
+| Fri 13 | Run | 1800 |
+| Sat 14 | Strength A, same weights as Tuesday | 1600 |
+| Sun 15 | Rest, shop and batch cook | 1600 |
+
+Runs are never on consecutive days. Next week the strength sessions rotate B, A, B.
+
 ## Sunday batch cook (about 1 hour, after the shop)
 
 Shopping list with current prices: `plan/week-1-shopping.md`.
