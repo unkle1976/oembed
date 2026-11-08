@@ -2,7 +2,7 @@
 
 Matches `plan/week-1-menu.md`. Prices were checked on 7 November 2026 from Trolley.co.uk, which tracks Sainsbury's online prices. Trolley notes these may not match in store, so expect small differences at the till. Re-check any time with `python3 tools/price_check.py`.
 
-**Updated 8 Nov for blood pressure:** a second bag of carrots and a bag of unsalted nuts are added, and the stock cubes and soy sauce become reduced-salt versions. I couldn't check prices for the two reduced-salt items from here, so they keep the old prices in the totals; expect a few pence difference either way.
+**Updated 8 Nov for blood pressure:** a second bag of carrots, a bag of unsalted nuts and a second pack of cherry tomatoes are added, and the stock cubes and soy sauce become reduced-salt versions. I couldn't check prices for the two reduced-salt items from here, so they keep the old prices in the totals; expect a few pence difference either way.
 
 Grouped in rough store order so you walk the shop once. Frozen goes in the trolley last.
 
@@ -39,7 +39,7 @@ Compared with the original plan, this adds about £3: one extra tin of sardines 
 | 1 | Sainsbury's Garlic | £0.22 |
 | 1 | Sainsbury's Young Spinach, 260 g | £1.35 |
 | 1 | Sainsbury's Small Whole Cucumber | £0.80 |
-| 1 | Sainsbury's Cherry Tomatoes, 500 g | £1.45 |
+| 1 | Sainsbury's Cherry Tomatoes, 500 g | £1.45. Buy this even after Saturday's pack: the soup lunches now use them (added 8 Nov) |
 
 ## Meat and fish
 
@@ -107,12 +107,12 @@ Compared with the original plan, this adds about £3: one extra tin of sardines 
 
 | | Price |
 |---|---|
-| Food | £73.30 |
-| Food with Nectar | £72.80 |
+| Food | £74.75 |
+| Food with Nectar | £74.25 |
 | Vitamin D and creatine | £15.50 |
-| **Everything, with Nectar** | **£88.30** |
+| **Everything, with Nectar** | **£89.75** |
 
-The 8 Nov changes add £3.55 (nuts £3.00, extra carrots £0.55), before any difference on the reduced-salt cubes and soy.
+The 8 Nov changes add £5.00 (nuts £3.00, extra carrots £0.55, extra cherry tomatoes £1.45). After yesterday's top-up, today's shop is £70.73 with Nectar, before any difference on the reduced-salt cubes and soy.
 
 This first shop is the most expensive one. About £13 of it is cupboard stock that lasts a month or more: oats, rice, oil, spices, soy sauce, stock cubes and lemon juice. You'll also have food left for next week: 2 salmon fillets, about 200 g of hoki, about 400 g of berries, 6 eggs, plus 2 portions of chilli and 2 of soup in the freezer. Next week's food shop should be noticeably smaller. I'll price it properly when we plan week 2.
 
