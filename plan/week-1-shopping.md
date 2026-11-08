@@ -2,6 +2,8 @@
 
 Matches `plan/week-1-menu.md`. Prices were checked on 7 November 2026 from Trolley.co.uk, which tracks Sainsbury's online prices. Trolley notes these may not match in store, so expect small differences at the till. Re-check any time with `python3 tools/price_check.py`.
 
+**Updated 8 Nov for blood pressure:** a second bag of carrots and a bag of unsalted nuts are added, and the stock cubes and soy sauce become reduced-salt versions. I couldn't check prices for the two reduced-salt items from here, so they keep the old prices in the totals; expect a few pence difference either way.
+
 Grouped in rough store order so you walk the shop once. Frozen goes in the trolley last.
 
 **Sunday hours:** large stores in England and Wales can open for only 6 hours on a Sunday, usually somewhere between 10am and 6pm. Check your store's times before you go.
@@ -33,7 +35,7 @@ Compared with the original plan, this adds about £3: one extra tin of sardines 
 | 1 | Sainsbury's Braeburn Apples, 6 | £1.80 |
 | 1 | Sainsbury's White Potatoes, 2 kg | £1.32 |
 | 1 | Sainsbury's Onions, 1 kg | £0.95 |
-| 1 | Sainsbury's Carrots, 500 g | £0.55 |
+| 2 | Sainsbury's Carrots, 500 g | £0.55 each, £1.10 |
 | 1 | Sainsbury's Garlic | £0.22 |
 | 1 | Sainsbury's Young Spinach, 260 g | £1.35 |
 | 1 | Sainsbury's Small Whole Cucumber | £0.80 |
@@ -79,11 +81,12 @@ Compared with the original plan, this adds about £3: one extra tin of sardines 
 | 1 | Sainsbury's Wholewheat Medium Noodles | £0.95 |
 | 1 | Sainsbury's Vegetable Oil, 1 litre | £1.45 |
 | 1 | Sainsbury's Lemon Juice, 250 ml | £0.90 |
-| 1 | Sainsbury's Vegetable Stock Cubes | £1.10 |
+| 1 | Reduced-salt vegetable stock cubes (any brand; check the label says reduced or low salt) | about £1.10, not checked |
 | 1 | Sainsbury's Ground Cumin, 100 g | £1.90 |
 | 1 | Sainsbury's Smoked Paprika, 44 g | £1.15 |
 | 1 | Sainsbury's Mild Chilli Powder, 44 g | £1.15 |
-| 1 | Sainsbury's Light Soy Sauce, 150 ml | £0.55 |
+| 1 | Reduced-salt soy sauce, for example Kikkoman Less Salt | about £0.55, not checked |
+| 1 | Sainsbury's Unsalted Mixed Nuts, 200 g | £3.00 |
 
 ## Frozen, last
 
@@ -104,10 +107,12 @@ Compared with the original plan, this adds about £3: one extra tin of sardines 
 
 | | Price |
 |---|---|
-| Food | £69.75 |
-| Food with Nectar | £69.25 |
+| Food | £73.30 |
+| Food with Nectar | £72.80 |
 | Vitamin D and creatine | £15.50 |
-| **Everything, with Nectar** | **£84.75** |
+| **Everything, with Nectar** | **£88.30** |
+
+The 8 Nov changes add £3.55 (nuts £3.00, extra carrots £0.55), before any difference on the reduced-salt cubes and soy.
 
 This first shop is the most expensive one. About £13 of it is cupboard stock that lasts a month or more: oats, rice, oil, spices, soy sauce, stock cubes and lemon juice. You'll also have food left for next week: 2 salmon fillets, about 200 g of hoki, about 400 g of berries, 6 eggs, plus 2 portions of chilli and 2 of soup in the freezer. Next week's food shop should be noticeably smaller. I'll price it properly when we plan week 2.
 
@@ -126,6 +131,6 @@ This first shop is the most expensive one. About £13 of it is cupboard stock th
 
 - **Salad leaves.** They'd wilt before Friday. Cucumber and cherry tomatoes cover the salad.
 - **Frozen peas, broccoli and spinach.** Trolley doesn't list Sainsbury's own versions, so I couldn't price them. The 1 kg bag of mixed vegetables covers those meals. Freeze half the fresh spinach on Sunday for Friday's fish.
-- **Nuts and peanut butter.** They're optional at 1,600 kcal. Sainsbury's Unsalted Mixed Nuts are £3.00 for 200 g, and the 100% Smooth Peanut Butter is £2.35 for 340 g, if you want them.
+- **Peanut butter.** Optional. Sainsbury's 100% Smooth Peanut Butter is £2.35 for 340 g. The nuts are now on the list.
 - **Psyllium.** Sainsbury's only stocks branded fibre sachets at £16 for 30. Plain psyllium husk powder is far cheaper online. The research agent saw about £10 to £13 for 500 g but couldn't verify it.
 - **Plant sterol drinks.** These are optional, per the nutrition plan. The research agent saw Sainsbury's own cholesterol-lowering drinks at about £3 for 6 but couldn't verify the price.
